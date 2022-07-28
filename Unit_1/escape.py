@@ -7,4 +7,3 @@ Practice with escape characters
 print("This is a  \"sentence\" on  my screen.")
 
 print("Life is like a box of chocolates - you \n never know what you\'re gonna get.  \n\t\t-Forest Gump")
-print("just why")
